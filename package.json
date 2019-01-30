@@ -1,0 +1,23 @@
+{
+  "name": "socketPractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliu1212/socketPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliu1212/socketPractice/issues"
+  },
+  "homepage": "https://github.com/aliu1212/socketPractice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
